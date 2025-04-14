@@ -10,7 +10,7 @@
 - 💬 Ask me about **climbing** 🧗 (sane body, sane spirit)
 
 - 📫 How to reach me:\
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discordapp.com/users/519650350689681418](https://discord.com/channels/@me))[![Gmail Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](faivre.clement3@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/clément-faivre-189198292)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discordapp.com/users/519650350689681418](https://discord.com/channels/@me))[![Gmail Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](faivre.clement3@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9ment-faivre-189198292/)
 
 
 ## Languages and Tools
