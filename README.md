@@ -13,10 +13,10 @@
 
 ## Languages and Tools
 ### Advanced
-![Advanced](https://skillicons.dev/icons?i=unity,cs,py,java)
+![Advanced](https://skillicons.dev/icons?i=unity,cs,java)
 ### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=cpp,c,js,html,css,visualstudio,vscode)
+![Intermediate](https://skillicons.dev/icons?i=cpp,c,py,js,html,css,visualstudio,vscode)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=godot,blender)
+![Novice](https://skillicons.dev/icons?i=blender)
 ### GitHub Stats
 ![overview](https://github.com/Robbirus/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Robbirus/github-stats-transparent/blob/output/generated/languages.svg)
