@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **climbing** 🧗 (sane body, sane spirit)
 
-- 📫 How to reach me **linkedin.com/in/clément-faivre-189198292**
+- 📫 How to reach me:\
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discordapp.com/users/519650350689681418](https://discord.com/channels/@me))[![Gmail Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](faivre.clement3@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/clément-faivre-189198292)
+
 
 ## Languages and Tools
 ### Advanced
@@ -19,6 +21,22 @@
 ### Novice
 ![Novice](https://skillicons.dev/icons?i=blender)
 
+## Other skills
+### Languages
+- 🇫🇷 French (Native)
+- 🇺🇸 English (B1+ - Intermediate - 665 TOEIC)
+### Soft Skills
+- Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
+- Efficient, curious, autonomous, organized, cooperative, patient
+- 
+## Things I like
+- 🧗 Climbing
+- 🚶 Hiking
+- 🎮 Video games like Minecraft, Satisfactory, Frostpunk, Helldivers and more !
+- ♟️ Board games too, like Wild Space, Boreal, Miniville and Explorers of the woodlands
+- 💻 Programming to make life easier and fun games 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 ### GitHub Stats
 ![overview](https://github.com/Robbirus/github-stats-transparent/blob/output/generated/overview.svg)![languages](https://github.com/Robbirus/github-stats-transparent/blob/output/generated/languages.svg)
