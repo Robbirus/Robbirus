@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **climbing** 🧗 (sane body, sane spirit)
 - 📫 How to reach me:\
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290591434241998848)[![Gmail Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](faivre.clement3@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9ment-faivre-189198292/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290591434241998848)[![Gmail Badge](https://img.shields.io/badge/Gmail-005FF9?logo=gmail&logoColor=fff&style=for-the-badge)](faivre.clement3@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9ment-faivre-189198292/)
 
 
 ## Languages and Tools
@@ -27,7 +27,6 @@
 ### Soft Skills
 - Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
 - Efficient, curious, autonomous, organized, cooperative, patient
-- 
 ## Things I like
 - 🧗 Climbing
 - 🚶 Hiking
