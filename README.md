@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently preparing **a degree in computer engineering** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/)
 
-- 💬 Ask me about **climbing** 🧗 (sane body, sane spirit)
+- 💬 Ask me about **climbing** 🧗
 - 📫 How to reach me:\
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9ment-faivre-189198292/)
 <!--
@@ -31,11 +31,11 @@
 - Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
 - Efficient, curious, autonomous, organized, cooperative, patient
 ## Things I like
-- 🧗 Climbing
-- 🚶 Hiking
 - 🎮 Video games like Minecraft, Satisfactory, Frostpunk, Helldivers and more !
 - ♟️ Board games too, like Wild Space, Boreal, Miniville and Explorers of the woodlands
-- 💻 Programming to make life easier and fun games 
+- 💻 Programming in general
+- 🧗 Climbing
+- 🚶 Hiking
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
