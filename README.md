@@ -54,6 +54,7 @@ and was commissioned by Smarketing, the purpose of this game is to teach childre
 </p>
 
 <br>
+
 # 🖥️ My skills
 ## Languages and Tools
 ### Advanced
