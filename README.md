@@ -37,7 +37,7 @@ Hi! I’m a french game developer and i am currently preparing **a degree in com
 # 📂 Projects
 ## [💥 The Last Dreadnought *(2025)*](https://github.com/Robbirus/Dreadnought/)
 
-This project is a game inspired by the bullet hell' style and rogue like. I started this project in school in December 2024 and continued on my own.
+This project is a game inspired by the bullet hell' style and rogue like. I started this project in school in December 2024 and still a WIP.
 
 <p align="center">
 	<a href="https://github.com/Robbirus/Dreadnought/"><img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>
@@ -45,6 +45,15 @@ This project is a game inspired by the bullet hell' style and rogue like. I star
 
 <br>
 
+## [🚬 Cigmania *(2025)*](https://github.com/Maxime-Albertelli/cig-mania)
+
+A school game project about an evil company selling cigarette, this game is in WIP since 2 years. This game is heavly inspired by plague inc, 
+and was commissioned by Smarketing, the purpose of this game is to teach children how the cigarette companies can kill people quietly.
+<p align="center">
+	<a href="https://github.com/Maxime-Albertelli/cig-mania"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
 # 🖥️ My skills
 ## Languages and Tools
 ### Advanced
