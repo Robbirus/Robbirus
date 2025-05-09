@@ -55,6 +55,42 @@ and was commissioned by Smarketing, the purpose of this game is to teach childre
 
 <br>
 
+## [⌨ Password Generator *(2024)*](https://github.com/Robbirus/PassWord-Generator)
+
+A little application made in java, it generates password depending on the desired lenght, numbers, symbols, lower or uppercase.
+<p align="center">
+	<a href="https://github.com/Robbirus/PassWord-Generator"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
+## [🧱 Tetris *(2024)*](https://github.com/Robbirus/TetrisGame)
+
+A clone of tetris made entirely in Java. It was a personnal project to help me learn more the language.
+<p align="center">
+	<a href="https://github.com/Robbirus/TetrisGame"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
+## [♟️ Chess game *(2023)*](https://github.com/Robbirus/ChessGame)
+
+Chess made entirely in Java. It was a personnal project to help me learn the language.
+<p align="center">
+	<a href="https://github.com/Robbirus/ChessGame"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
+## [♻️ Sorter *(2022)*](https://github.com/Robbirus/Sorter)
+
+A group of different sorter made in school, in java.
+<p align="center">
+	<a href="https://github.com/Robbirus/Sorter"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
 # 🖥️ My skills
 ## Languages and Tools
 ### Advanced
