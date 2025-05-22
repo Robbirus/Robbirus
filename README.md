@@ -50,7 +50,7 @@ This project is a game inspired by the bullet hell' style and rogue like. I star
 This is a school project in group, which is a collection of Python scripts and modules designed to create a physical engine.
 
 <p align="center">
-	<a href="https://github.com/Robbirus/Dreadnought/"><img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>
+	<a href="https://github.com/Robbirus/EnjminEngineMoteur/"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
 </p>
 
 <br>
