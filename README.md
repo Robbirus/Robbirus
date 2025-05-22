@@ -45,6 +45,16 @@ This project is a game inspired by the bullet hell' style and rogue like. I star
 
 <br>
 
+## [📚 EEM *(2025)*](https://github.com/Robbirus/EnjminEngineMoteur/)
+
+This is a school project in group, which is a collection of Python scripts and modules designed to create a physical engine.
+
+<p align="center">
+	<a href="https://github.com/Robbirus/Dreadnought/"><img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
 ## [🚬 Cigmania *(2025)*](https://github.com/Maxime-Albertelli/cig-mania)
 
 A school game project about an evil company selling cigarette, this game is in WIP since 2 years. This game is heavly inspired by plague inc, 
