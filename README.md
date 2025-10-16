@@ -11,7 +11,7 @@ Hi! I’m a french game developer and i am currently preparing **a degree in com
 - ♟️ Board games too, like Wild Space, Boreal, Miniville and Explorers of the woodlands
 - 💻 Programming in general
 - 🧗 Climbing
-- 🚶 Hiking
+- 🏋🏻‍♀️ Fitness
 <br>
 
 # 📭 Contact
