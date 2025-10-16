@@ -20,12 +20,6 @@ Hi! I’m a french game developer and i am currently preparing **a degree in com
 	<a href="https://www.linkedin.com/in/cl%C3%A9ment-faivre-189198292/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-  <!--
-	<span>&nbsp;</span>
-	<a href="https://discord.gg/WSvpcA3jJu">
-		<img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-	</a>
-  -->
   <span>&nbsp;</span>
 	<a href="mailto:faivre.clement3@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -57,8 +51,8 @@ This is a school project in group, which is a collection of Python scripts and m
 
 ## [🚬 Cigmania *(2025)*](https://github.com/Maxime-Albertelli/cig-mania)
 
-A school game project about an evil company selling cigarette, this game is in WIP since 2 years. This game is heavly inspired by plague inc, 
-and was commissioned by Smarketing, the purpose of this game is to teach children how the cigarette companies can kill people quietly.
+A school game project about an evil company selling cigarette, this project was in development for 2 years before being cancelled due to problems coming from school. This game is heavly inspired by plague inc, 
+and was commissioned by Smarketing, its purpose was to teach children how the cigarette companies can kill people quietly.
 <p align="center">
 	<a href="https://github.com/Maxime-Albertelli/cig-mania"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
 </p>
@@ -88,6 +82,17 @@ A clone of tetris made entirely in Java. It was a personnal project to help me l
 Chess made entirely in Java. It was a personnal project to help me learn the language.
 <p align="center">
 	<a href="https://github.com/Robbirus/ChessGame"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
+## [🗡️ Blue Boy Adventure *(2023)*](https://github.com/Robbirus/BlueBoyAdventure)
+
+A RPG Zelda-like game made entirely in Java. It was a personnal project to help me learn the language.
+I followed a tutorial online but I added / modified things to it, in order to make the game a little orignal.
+[The author](https://www.youtube.com/@RyiSnow/featured)
+<p align="center">
+	<a href="https://github.com/Robbirus/BlueBoyAdventure"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
 </p>
 
 <br>
