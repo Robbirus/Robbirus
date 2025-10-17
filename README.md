@@ -59,6 +59,15 @@ and was commissioned by Smarketing, its purpose was to teach children how the ci
 
 <br>
 
+## [🔢 Sudoku Solver *(2024)*]([https://github.com/Robbirus/PassWord-Generator](https://github.com/Robbirus/SudokuSolver))
+
+An basic Sudoku Solver made in java, it solves sudoku grid. A GUI will be add soon.
+<p align="center">
+	<a href="https://github.com/Robbirus/SudokuSolver"><!--<img src="https://github.com/Robbirus/Dreadnought/resources/misc/thumbnail.png" width="500"></a>-->
+</p>
+
+<br>
+
 ## [⌨ Password Generator *(2024)*](https://github.com/Robbirus/PassWord-Generator)
 
 A little application made in java, it generates password depending on the desired lenght, numbers, symbols, lower or uppercase.
