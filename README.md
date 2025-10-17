@@ -59,7 +59,7 @@ and was commissioned by Smarketing, its purpose was to teach children how the ci
 
 <br>
 
-## [🔢 Sudoku Solver *(2024)*]([https://github.com/Robbirus/PassWord-Generator](https://github.com/Robbirus/SudokuSolver)
+## [🔢 Sudoku Solver *(2024)*](https://github.com/Robbirus/SudokuSolver)
 
 An basic Sudoku Solver made in java, it solves sudoku grid. A GUI will be add soon.
 <p align="center">
