@@ -3,7 +3,7 @@
 
 # 👦 About me
 
-Hi! I’m a french game developer and i am currently preparing **a degree in computer engineering** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/), the best computer science and video game school. But I also develop things on my free time, for now i work on my game project, called **[The last Dreadnought](https://github.com/Robbirus/Dreadnought)**.
+Hi! I’m a french game developer and I am currently preparing **a degree in computer engineering** at [Cnam-Enjmin](https://enjmin.cnam.fr/formations/ingenieur-ingenieure-informatique-et-multimedia/), the best computer science and video game school. But I also develop things on my free time, for now i work on my game project, called **[The last Dreadnought](https://github.com/Robbirus/Dreadnought)**.
 <br>
 
 ## Things I like
