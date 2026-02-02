@@ -127,7 +127,7 @@ A group of different sorter made in school, in java.
 # 🗨️ Other skills
 ## Languages
 - 🇫🇷 French (Native)
-- 🇺🇸 English (B1+ - Intermediate - 665 TOEIC)
+- 🇺🇸 English (B1+ - Intermediate - 730 TOEIC)
 ## Soft Skills
 - Strong communication skills for presentations and interpersonal communication (active listening, respect, empathy...)
 - Efficient, curious, autonomous, organized, cooperative, patient
