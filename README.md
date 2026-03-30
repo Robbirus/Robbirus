@@ -29,6 +29,8 @@ Hi! I’m a french game developer and I am currently preparing **a degree in com
 <br>
 
 # 📂 Projects
+## [🚀 Procedural Solar System Game *(2026)*](https://github.com/Robbirus/Planet_Generator)
+
 ## [💥 The Last Dreadnought *(2025)*](https://github.com/Robbirus/Dreadnought/)
 
 This project is a game inspired by the bullet hell' style and rogue like. I started this project in school in December 2024 and still a WIP.
