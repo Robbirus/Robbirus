@@ -30,6 +30,7 @@ Hi! I’m a french game developer and I am currently preparing **a degree in com
 
 # 📂 Projects
 ## [🚀 Procedural Solar System Game *(2026)*](https://github.com/Robbirus/Planet_Generator)
+This game project is about procedural generation in space, from distant stars to planets.
 
 ## [💥 The Last Dreadnought *(2025)*](https://github.com/Robbirus/Dreadnought/)
 
